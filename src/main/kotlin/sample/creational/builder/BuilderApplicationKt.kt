@@ -1,4 +1,4 @@
 package sample.creational.builder;
 
-class BuilderApplication {
+class BuilderApplicationKt {
 }
