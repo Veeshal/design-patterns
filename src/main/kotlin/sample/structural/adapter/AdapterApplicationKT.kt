@@ -1,4 +1,4 @@
 package sample.structural.adapter;
 
-class AdapterApplication {
+class AdapterApplicationKT {
 }

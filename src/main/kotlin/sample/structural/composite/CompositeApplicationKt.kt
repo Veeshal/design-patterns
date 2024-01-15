@@ -1,4 +1,4 @@
 package sample.structural.composite;
 
-class CompositeApplication {
+class CompositeApplicationKt {
 }

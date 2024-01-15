@@ -1,4 +1,4 @@
 package sample.creational.prototype;
 
-class PrototypeApplication {
+class PrototypeApplicationKt {
 }
